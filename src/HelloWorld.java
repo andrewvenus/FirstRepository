@@ -4,4 +4,8 @@ public class HelloWorld {
 	{
 		return "Goodbye";
 	}
+	public String hello()
+	{
+		return "Hello";
+	}
 }
