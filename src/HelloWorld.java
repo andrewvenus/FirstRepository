@@ -1,7 +1,7 @@
 
 public class HelloWorld {
-	public String hello()
+	public String goodbye()
 	{
-		return "Hello";
+		return "Goodbye";
 	}
 }
