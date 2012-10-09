@@ -7,4 +7,9 @@ public class HelloWorld {
 	{
 		return "Hello Hello";
 	}
+	
+	public int seven()
+	{
+		return 7;
+	}
 }
